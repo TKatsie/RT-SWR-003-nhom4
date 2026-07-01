@@ -17,5 +17,19 @@ String D:
 ("GPT-4" OR "large language model" OR "LLM") AND ("traceability" OR "traceability link") AND ("hallucination" OR "false positive" OR "non-existent") AND ("few-shot" OR "zero-shot")  
 Results: 20
 
-Papers before dedup: 31  
-Papers after dedup: 30
+String E:  
+("requirement-to-source-code" OR "requirement to code") AND ("GPT-4" OR "LLM") AND ("VSM" OR "LSI" OR "BM25") AND ("class-level" OR "granularity")  
+Results: 3
+
+String F:  
+("GPT-4" OR "LLM") AND ("few-shot prompting" OR "in-context learning" OR "examples") AND ("traceability recovery") AND ("hallucination reduction")  
+Results: 2
+
+String G:  
+("GPT-4" OR "LLM") AND ("MAP" OR "MAP@10" OR "Recall") AND ("software traceability") AND ("zero-shot")  
+Results: 2
+
+Snowballing:  
+Results: 21
+
+Papers before dedup: 59
