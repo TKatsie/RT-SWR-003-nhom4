@@ -1,10 +1,16 @@
-\#,Mô tả GAP,Loại,Bằng chứng từ merged evidence table,Người chọn  
-G1,Tính không xác định và khả năng xảy ra ảo giác của các mô hình ngôn ngữ lớn (LLM),GAP-T,Tính chất không xác định (non-deterministic) của LLM và hiện tượng ảo giác (hallucinations) gây ảnh hưởng đến độ tin cậy của liên kết được tạo ra., PL
-G2,Thiếu sự đa dạng trong tập dữ liệu kiểm chứng và tính tổng quát hóa,GAP-M,"Các nghiên cứu thường chỉ tập trung vào mã nguồn mở, thiếu sự đa dạng về loại dự án và các tham số đặc thù của kỹ thuật yêu cầu (RE).", RW
-G3,Tính chủ quan trong việc tạo lập dữ liệu chuẩn (Ground-truth),GAP-M,"Việc tạo bộ dữ liệu mẫu và gán nhãn thủ công vẫn mang nặng tính chủ quan của người thực hiện, gây sai số cho việc đánh giá.",  
-G4,Sự hạn chế về ngôn ngữ lập trình và cấu trúc mã nguồn cụ thể,GAP-T,Một số công cụ chỉ hỗ trợ Python hoặc gặp lỗi khi xử lý các cấu trúc mã nguồn đặc thù như JSP hoặc các dự án đa ngôn ngữ thiếu thuật ngữ chuyên ngành.,  
-G5,Chi phí tối ưu hóa và tài nguyên tính toán cao,GAP-T,Quy trình tối ưu hóa lời nhắc (prompt engineering) lặp đi lặp lại tiêu tốn nhiều chi phí và hiệu suất thay đổi đáng kể nếu không có cơ chế lưu trữ đệm (cache).,  
-G6,Vấn đề về hiệu chuẩn độ tin cậy của mô hình,GAP-T,"Các mô hình gặp khó khăn trong việc tự đánh giá độ tin cậy của kết quả (confidence calibration) và phụ thuộc quá nhiều vào các hành vi ""suy nghĩ"" cụ thể của mô hình.",  
-G7,Độ nhạy cao với siêu tham số và sự cố định của các trọng số tích hợp,GAP-T,"Các khung làm việc hybrid hoặc GraphRAG rất nhạy cảm với siêu tham số và thường sử dụng trọng số tích hợp cố định, thiếu linh hoạt.",  
+\# GAP List - Nhóm 4
+Ngày: 2026-07-02
+Merge evidence table: N = 9 paper
+
+\## Danh sách GAP
+
+\# | Mô tả GAP | Loại | Bằng chứng từ merged evidence table | Người chọn  
+G1 | Tính không xác định và khả năng xảy ra ảo giác của các mô hình ngôn ngữ lớn (LLM) | GAP-T | Tính chất không xác định (non-deterministic) của LLM và hiện tượng ảo giác (hallucinations) gây ảnh hưởng đến độ tin cậy của liên kết được tạo ra. | PL
+G2 | Thiếu sự đa dạng trong tập dữ liệu kiểm chứng và tính tổng quát hóa | GAP-M | "Các nghiên cứu thường chỉ tập trung vào mã nguồn mở, thiếu sự đa dạng về loại dự án và các tham số đặc thù của kỹ thuật yêu cầu (RE)." | RW
+G3 | Tính chủ quan trong việc tạo lập dữ liệu chuẩn (Ground-truth) | GAP-M | "Việc tạo bộ dữ liệu mẫu và gán nhãn thủ công vẫn mang nặng tính chủ quan của người thực hiện, gây sai số cho việc đánh giá." |   
+G4 | Sự hạn chế về ngôn ngữ lập trình và cấu trúc mã nguồn cụ thể | GAP-T | Một số công cụ chỉ hỗ trợ Python hoặc gặp lỗi khi xử lý các cấu trúc mã nguồn đặc thù như JSP hoặc các dự án đa ngôn ngữ thiếu thuật ngữ chuyên ngành. |  
+G5 | Chi phí tối ưu hóa và tài nguyên tính toán cao | GAP-T | Quy trình tối ưu hóa lời nhắc (prompt engineering) lặp đi lặp lại tiêu tốn nhiều chi phí và hiệu suất thay đổi đáng kể nếu không có cơ chế lưu trữ đệm (cache). |  
+G6 | Vấn đề về hiệu chuẩn độ tin cậy của mô hình | GAP-T | "Các mô hình gặp khó khăn trong việc tự đánh giá độ tin cậy của kết quả (confidence calibration) và phụ thuộc quá nhiều vào các hành vi ""suy nghĩ"" cụ thể của mô hình." |  
+G7 | Độ nhạy cao với siêu tham số và sự cố định của các trọng số tích hợp | GAP-T | "Các khung làm việc hybrid hoặc GraphRAG rất nhạy cảm với siêu tham số và thường sử dụng trọng số tích hợp cố định, thiếu linh hoạt." |  
 G8,Tốc độ tiến hóa nhanh của mô hình so với giá trị thời gian của nghiên cứu,GAP-M,Sự phát triển quá nhanh của các phiên bản LLM làm cho các kết quả thực nghiệm nhanh chóng bị lạc hậu (temporal validity).,  
 G9,Thiếu sự tích hợp giữa các phương pháp truyền thống (IR) và LLM hiện đại,GAP-T,"Nhiều phương pháp vẫn tập trung đơn lẻ vào IR hoặc LLM mà chưa tối ưu hóa việc tích hợp sâu, ví dụ như thiếu sự hỗ trợ của LLM trong các khung dịch thuật biến thể.",  
