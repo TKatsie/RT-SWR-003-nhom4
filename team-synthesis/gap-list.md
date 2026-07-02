@@ -1,6 +1,6 @@
 \#,Mô tả GAP,Loại,Bằng chứng từ merged evidence table,Người chọn  
-G1,Tính không xác định và khả năng xảy ra ảo giác của các mô hình ngôn ngữ lớn (LLM),GAP-T,Tính chất không xác định (non-deterministic) của LLM và hiện tượng ảo giác (hallucinations) gây ảnh hưởng đến độ tin cậy của liên kết được tạo ra.,  
-G2,Thiếu sự đa dạng trong tập dữ liệu kiểm chứng và tính tổng quát hóa,GAP-M,"Các nghiên cứu thường chỉ tập trung vào mã nguồn mở, thiếu sự đa dạng về loại dự án và các tham số đặc thù của kỹ thuật yêu cầu (RE).",  
+G1,Tính không xác định và khả năng xảy ra ảo giác của các mô hình ngôn ngữ lớn (LLM),GAP-T,Tính chất không xác định (non-deterministic) của LLM và hiện tượng ảo giác (hallucinations) gây ảnh hưởng đến độ tin cậy của liên kết được tạo ra., PL
+G2,Thiếu sự đa dạng trong tập dữ liệu kiểm chứng và tính tổng quát hóa,GAP-M,"Các nghiên cứu thường chỉ tập trung vào mã nguồn mở, thiếu sự đa dạng về loại dự án và các tham số đặc thù của kỹ thuật yêu cầu (RE).", RW
 G3,Tính chủ quan trong việc tạo lập dữ liệu chuẩn (Ground-truth),GAP-M,"Việc tạo bộ dữ liệu mẫu và gán nhãn thủ công vẫn mang nặng tính chủ quan của người thực hiện, gây sai số cho việc đánh giá.",  
 G4,Sự hạn chế về ngôn ngữ lập trình và cấu trúc mã nguồn cụ thể,GAP-T,Một số công cụ chỉ hỗ trợ Python hoặc gặp lỗi khi xử lý các cấu trúc mã nguồn đặc thù như JSP hoặc các dự án đa ngôn ngữ thiếu thuật ngữ chuyên ngành.,  
 G5,Chi phí tối ưu hóa và tài nguyên tính toán cao,GAP-T,Quy trình tối ưu hóa lời nhắc (prompt engineering) lặp đi lặp lại tiêu tốn nhiều chi phí và hiệu suất thay đổi đáng kể nếu không có cơ chế lưu trữ đệm (cache).,  
