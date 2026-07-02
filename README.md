@@ -1,9 +1,9 @@
 # So sánh GPT-4 zero-shot và các phương pháp IR trong xác định vết phần mềm
 
-**Topic:** RT-SWT-00X
+**Topic:** RBL-SWR
 **Môn:** SWR302 – Research-Based Learning
 **Nhóm:** 4 – Học kỳ 5, năm 2026
-**Thành viên:** Nguyễn Cao Phương Bình (PL), Nguyễn Đình Trí
+**Thành viên:** Nguyễn Cao Phương Bình (PL), Nguyễn Đình Trí (RW), Hồ Minh Quân (LR)
 **GV hướng dẫn:** L.T.Q.Chi
 
 ## Tiến độ
