@@ -57,3 +57,58 @@ id;title;authors;year;venue;search_string
 56;A Traceability Framework to Enable Circularity in the Built Environment;Saman Davari and Meisam Jaberi and Adam Yousfi and Erik A. Poirier;2023;Sustainability;Extra Provided Papers
 57;Explainability as a Compliance Requirement: What Regulated Industries Need from AI Tools for Design Artifact Generation;Syed Tauhid Ullah Shah and Mohamad Hussein and Ann Barcomb and Mohammad Moshirpour;2025;2025 IEEE 33rd International Requirements Engineering Conference Workshops (REW);Extra Provided Papers
 58;Computational linguistics and natural language processing techniques for semantic field extraction in Arabic online news;Maulana Ihsan Ahmad and Moh. Kanif Anwari;2024;Studies in English Language and Education;Extra Provided Papers
+59;Word Translation Without Parallel Data;Alexis Conneau and Guillaume Lample and Marc'Aurelio Ranzato and Ludovic Denoyer and Herv'e;2017;ArXiv;Newly Added Batch
+60;Software Engineering Economics;Barry W. Boehm;1993;IEEE Transactions on Software Engineering;Newly Added Batch
+61;Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation;Melvin Johnson and Mike Schuster and Quoc V. Le and Maxim Krikun and Yonghui Wu and Z. Chen and Nikhil Thorat and Fernanda B. Vi'e;2016;Transactions of the Association for Computational Linguistics;Newly Added Batch
+62;Trustrace: Mining Software Repositories to Improve the Accuracy of Requirement Traceability Links;Nasir Ali and Yann-Ga;2013;IEEE Transactions on Software Engineering;Newly Added Batch
+63;Ontology Matching: State of the Art and Future Challenges;Pavel Shvaiko and J'e;2013;IEEE Transactions on Knowledge and Data Engineering;Newly Added Batch
+64;Loss in Translation: Learning Bilingual Word Mapping with a Retrieval Criterion;Armand Joulin and Piotr Bojanowski and Tomas Mikolov and Herv'e;2018;Conference on Empirical Methods in Natural Language Processing;Newly Added Batch
+65;Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation;Yonghui Wu and Mike Schuster and Z. Chen and Quoc V. Le and Mohammad Norouzi and Wolfgang Macherey and Maxim Krikun and Yuan Cao and Qin Gao and Klaus Macherey and Jeff Klingner and Apurva Shah and Melvin Johnson and Xiaobing Liu and Lukasz Kaiser and Stephan Gouws and Yoshikiyo Kato and Taku Kudo and Hideto Kazawa and Keith Stevens and George Kurian and Nishant Patil and Wei Wang and Cliff Young and Jason R. Smith and Jason Riesa and Alex Rudnick and Oriol Vinyals and Gregory S. Corrado and Macduff Hughes and Jeffrey Dean;2016;ArXiv;Newly Added Batch
+66;Supporting Systems Development by Capturing Deliberations During Requirements Engineering;Balasubramaniam Ramesh and Vasant Dhar;1992;IEEE Trans. Software Eng.;Newly Added Batch
+67;Tweet2Vec: Character-Based Distributed Representations for Social Media;Bhuwan Dhingra and Zhong Zhou and Dylan J. Fitzpatrick and Michael Muehl and William W. Cohen;2016;ArXiv;Newly Added Batch
+68;Software reflexion models: bridging the gap between source and high-level models;Gail C. Murphy and David Notkin and Kevin J. Sullivan;1995;Proceedings of the 3rd ACM SIGSOFT symposium on Foundations of software engineering;Newly Added Batch
+69;Improving Distributional Similarity with Lessons Learned from Word Embeddings;Omer Levy and Yoav Goldberg and Ido Dagan;2015;Transactions of the Association for Computational Linguistics;Newly Added Batch
+70;Techniques for automatically correcting words in text;Karen Kukich;1992;ACM Comput. Surv.;Newly Added Batch
+71;An Information Retrieval Approach For Automatically Constructing Software Libraries;Yoelle Maarek and Daniel M. Berry and Gail E Kaiser;1991;IEEE Trans. Software Eng.;Newly Added Batch
+72;How to Construct Deep Recurrent Neural Networks;Razvan Pascanu and Çaglar G;2013;CoRR;Newly Added Batch
+73;Information retrieval models for recovering traceability links between code and documentation;Giuliano Antoniol and Gerardo Canfora and Gerardo Casazza and Andrea De Lucia;2000;Proceedings 2000 International Conference on Software Maintenance;Newly Added Batch
+74;Development of Safety-Critical Software Systems Using Open Source Software -- A Systematic Map;Sardar Muhammad Sulaman and Alma Orucevic-Alagic and Markus Borg and Krzysztof Wnuk and Martin H;2014;2014 40th EUROMICRO Conference on Software Engineering and Advanced Applications;Newly Added Batch
+75;Unsupervised Cross-lingual Word Embedding by Multilingual Neural Language Models;Takashi Wada and Tomoharu Iwata;2018;ArXiv;Newly Added Batch
+76;gIBIS: a hypertext tool for exploratory policy discussion;Jeff Conklin and Michael L. Begeman;1988;ACM Transactions on Information Systems (TOIS);Newly Added Batch
+77;Reasoning about Entailment with Neural Attention;Tim Rockt;2015;CoRR;Newly Added Batch
+78;Visualizing and Understanding Recurrent Networks;Andrej Karpathy and Justin Johnson and Li Fei-Fei;2015;ArXiv;Newly Added Batch
+79;Distributed Representations of Words and Phrases and their Compositionality;Tomas Mikolov and Ilya Sutskever and Kai Chen and Gregory S. Corrado and Jeffrey Dean;2013;Neural Information Processing Systems;Newly Added Batch
+80;An empirical study on project-specific traceability strategies;Patrick Rempel and Patrick M;2013;2013 21st IEEE International Requirements Engineering Conference (RE);Newly Added Batch
+81;Traceability in the Wild: Automatically Augmenting Incomplete Trace Links;Michael Rath and Jacob Rendall and Jin L. C. Guo and Jane Cleland-Huang and Patrick M;2018;2018 IEEE/ACM 40th International Conference on Software Engineering (ICSE);Newly Added Batch
+82;Automatic Traceability Maintenance via Machine Learning Classification;Chris Mills and Javier Escobar-Avila and Sonia Haiduc;2018;2018 IEEE International Conference on Software Maintenance and Evolution (ICSME);Newly Added Batch
+83;Impact analysis-Towards a framework for comparison;Robert S. Arnold and Shawn A. Bohner;1993;1993 Conference on Software Maintenance;Newly Added Batch
+84;Technique Integration for Requirements Assessment;Alex Dekhtyar and Jane Huffman Hayes and Senthil Karthikeyan Sundaram and Elizabeth Ashlee Holbrook and Olga Dekhtyar;2007;15th IEEE International Requirements Engineering Conference (RE 2007);Newly Added Batch
+85;Cover;;2022;2022 International Conference on Information Technology Research and Innovation (ICITRI);Newly Added Batch
+86;Advances in Pre-Training Distributed Word Representations;Tomas Mikolov and Edouard Grave and Piotr Bojanowski and Christian Puhrsch and Armand Joulin;2017;ArXiv;Newly Added Batch
+87;NLTK: The Natural Language Toolkit;Steven Bird;2006;Annual Meeting of the Association for Computational Linguistics;Newly Added Batch
+88;Design recovery for maintenance and reuse;Ted J. Biggerstaff;1989;Computer;Newly Added Batch
+89;Program understanding and the concept assignment problem;Ted J. Biggerstaff and Bharat G. Mitbander and Dallas E. Webster;1994;Commun. ACM;Newly Added Batch
+90;A High-Throughput Screening Approach to Discovering Good Forms of Biologically Inspired Visual Representation;Nicolas Pinto and David Doukhan and James J. DiCarlo and David D. Cox;2009;PLoS Computational Biology;Newly Added Batch
+91;An analysis of the requirements traceability problem;Olly Gotel and Anthony Finkelstein;1994;Proceedings of IEEE International Conference on Requirements Engineering;Newly Added Batch
+92;Probabilistic latent semantic indexing;Thomas Hofmann;1999;Annual International ACM SIGIR Conference on Research and Development in Information Retrieval;Newly Added Batch
+93;Syntactic/semantic interactions in programmer behavior: A model and experimental results;Ben Shneiderman and Richard E. Mayer;1979;International Journal of Computer \& Information Sciences;Newly Added Batch
+94;Generalized vector spaces model in information retrieval;S. K. M. Wong and Wojciech P. Ziarko and Patrick Wong;1985;Annual International ACM SIGIR Conference on Research and Development in Information Retrieval;Newly Added Batch
+95;BilBOWA: Fast Bilingual Distributed Representations without Word Alignments;Stephan Gouws and Yoshua Bengio and Gregory S. Corrado;2014;International Conference on Machine Learning;Newly Added Batch
+96;Semantically Enhanced Software Traceability Using Deep Learning Techniques;Jin L.C. Guo and Jinghui Cheng and Jane Cleland-Huang;2017;2017 IEEE/ACM 39th International Conference on Software Engineering (ICSE);Newly Added Batch
+97;Bidirectional recurrent neural networks;Mike Schuster and Kuldip K. Paliwal;1997;IEEE Trans. Signal Process.;Newly Added Batch
+98;Term-Weighting Approaches in Automatic Text Retrieval;Gerard Salton and Chris Buckley;1988;Inf. Process. Manag.;Newly Added Batch
+99;Efficient Estimation of Word Representations in Vector Space;Tomas Mikolov and Kai Chen and Gregory S. Corrado and Jeffrey Dean;2013;International Conference on Learning Representations;Newly Added Batch
+100;The quest for Ubiquity: A roadmap for software and systems traceability research;Olly Gotel and Jane Cleland-Huang and Jane Huffman Hayes and Andrea Zisman and Alexander Egyed and Paul Gr;2012;2012 20th IEEE International Requirements Engineering Conference (RE);Newly Added Batch
+101;A Survey of Cross-lingual Word Embedding Models;Sebastian Ruder and Ivan Vulic and Anders S\o;2017;J. Artif. Intell. Res.;Newly Added Batch
+102;On the Properties of Neural Machine Translation: Encoder–Decoder Approaches;Kyunghyun Cho and Bart van Merrienboer and Dzmitry Bahdanau and Yoshua Bengio;2014;SSST@EMNLP;Newly Added Batch
+103;Neural Machine Translation by Jointly Learning to Align and Translate;Dzmitry Bahdanau and Kyunghyun Cho and Yoshua Bengio;2014;CoRR;Newly Added Batch
+104;Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks;Kai Sheng Tai and Richard Socher and Christopher D. Manning;2015;ArXiv;Newly Added Batch
+105;Practical Recommendations for Gradient-Based Training of Deep Architectures;Yoshua Bengio;2012;Neural Networks;Newly Added Batch
+106;Advancing candidate link generation for requirements tracing: the study of methods;Jane Huffman Hayes and Alex Dekhtyar and Senthil Karthikeyan Sundaram;2006;IEEE Transactions on Software Engineering;Newly Added Batch
+107;Can LSI help reconstructing requirements traceability in design and test?;Marco Lormans and Arie van Deursen;2006;Conference on Software Maintenance and Reengineering (CSMR'06);Newly Added Batch
+108;A Survey on Usage Scenarios for Requirements Traceability in Practice;Elke Bouillon and Patrick M;2013;Requirements Engineering: Foundation for Software Quality;Newly Added Batch
+109;Software traceability: trends and future directions;Jane Cleland-Huang and Olly Gotel and Jane Huffman Hayes and Patrick M;2014;Future of Software Engineering Proceedings;Newly Added Batch
+110;Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling;Junyoung Chung and Çaglar G;2014;ArXiv;Newly Added Batch
+111;A Generalized Vector Space Model for Text Retrieval Based on Semantic Relatedness;George Tsatsaronis and Vicky Panagiotopoulou;2009;Conference of the European Chapter of the Association for Computational Linguistics;Newly Added Batch
+112;Traceability recovery by modeling programmer behavior;Giuliano Antoniol and Gerardo Casazza and Aniello Cimitile;2000;Proceedings Seventh Working Conference on Reverse Engineering;Newly Added Batch
+113;Safety critical systems: challenges and directions;John C. Knight;2002;Proceedings of the 24th International Conference on Software Engineering. ICSE 2002;Newly Added Batch
