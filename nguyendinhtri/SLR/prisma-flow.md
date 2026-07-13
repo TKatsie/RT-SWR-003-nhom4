@@ -1,6 +1,6 @@
-Paper từ database search: 59
+Paper từ database search: 114
 
-Sau dedup: 58
+Sau dedup: 113
 
 Loại v1: 40 (IC-L: 18; IC-T: 23; IC-E: 35\)
 
