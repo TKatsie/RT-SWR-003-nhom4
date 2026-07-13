@@ -1,6 +1,6 @@
 \# GAP List - Nhóm 4
 Ngày: 2026-07-02
-Merge evidence table: N = 9 paper
+Merge evidence table: N = 34 paper
 
 \## Danh sách GAP
 
