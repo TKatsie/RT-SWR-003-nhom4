@@ -43,7 +43,7 @@ Hiện nay, hầu hết các nghiên cứu về truy vết (traceability) sử d
 
 ## 5\. Đề xuất sơ bộ cho nhóm
 
-* **Dataset khả thi:** Tiếp tục khai thác **Crawl4AI** (đối diện với thách thức tài liệu dạng tường thuật) hoặc các dự án OSS mới có tài liệu hướng dẫn phong phú 9, 18\.  
+* **Dataset khả thi:** Tiếp tục khai thác **Crawl4AI** (đối diện với thách thức tài liệu dạng tường thuật) hoặc các dự án OSS mới có tài liệu hướng dẫn phong phú\.  
 * **Metric đề xuất:** **Strict Accuracy** (cho giải thích) và **Complete Match Rate** (cho chuỗi truy vết đa bước).  
 * **LLM/Tool đề xuất:** **o3-mini (High reasoning effort)** vì mô hình này cho thấy tiềm năng cao nhất trong việc xử lý các tác vụ suy luận phức tạp để khôi phục chuỗi.  
 * **Baseline đề xuất:** So sánh với kết quả của chiến lược **One-to-many** trong bài của Alor et al. (2025) và các phương pháp IR truyền thống (TF-IDF, BM25).  
